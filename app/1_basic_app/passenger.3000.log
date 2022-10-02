@@ -1,0 +1,45 @@
+[ N 2022-09-08 14:05:48.3700 2219/T1 age/Wat/WatchdogMain.cpp:1373 ]: Starting Passenger watchdog...
+[ N 2022-09-08 14:05:48.3788 2222/T1 age/Cor/CoreMain.cpp:1340 ]: Starting Passenger core...
+[ N 2022-09-08 14:05:48.3792 2222/T1 age/Cor/CoreMain.cpp:256 ]: Passenger core running in multi-application mode.
+[ N 2022-09-08 14:05:48.4401 2222/T1 age/Cor/CoreMain.cpp:1015 ]: Passenger core online, PID 2222
+[ N 2022-09-08 14:05:50.7710 2222/T5 age/Cor/SecurityUpdateChecker.h:519 ]: Security update check: no update found (next check in 24 hours)
+
+[ N 2022-09-08 14:06:29.2116 2222/T8 age/Cor/CoreMain.cpp:670 ]: Signal received. Gracefully shutting down... (send signal 2 more time(s) to force shutdown)
+[ N 2022-09-08 14:06:29.2185 2222/T1 age/Cor/CoreMain.cpp:1245 ]: Received command to shutdown gracefully. Waiting until all clients have disconnected...
+[ N 2022-09-08 14:06:29.2186 2222/T1 age/Cor/CoreMain.cpp:1146 ]: Checking whether to disconnect long-running connections for process 2319, application /mnt/c/Users/MaxDev/RubymineProjects/Ruby-Rack/app/1_basic_app (development)
+[ N 2022-09-08 14:06:29.2190 2222/T8 Ser/Server.h:901 ]: [ServerThr.1] Freed 0 spare client objects
+[ N 2022-09-08 14:06:29.2191 2222/Tu Ser/Server.h:901 ]: [ServerThr.12] Freed 0 spare client objects
+[ N 2022-09-08 14:06:29.2190 2222/Ta Ser/Server.h:901 ]: [ServerThr.2] Freed 0 spare client objects
+[ N 2022-09-08 14:06:29.2190 2222/Td Ser/Server.h:901 ]: [ServerThr.3] Freed 0 spare client objects
+[ N 2022-09-08 14:06:29.2195 2222/Td Ser/Server.h:558 ]: [ServerThr.3] Shutdown finished
+[ N 2022-09-08 14:06:29.2190 2222/Te Ser/Server.h:901 ]: [ServerThr.4] Freed 0 spare client objects
+[ N 2022-09-08 14:06:29.2190 2222/Th Ser/Server.h:901 ]: [ServerThr.5] Freed 0 spare client objects
+[ N 2022-09-08 14:06:29.2190 2222/Tj Ser/Server.h:901 ]: [ServerThr.6] Freed 0 spare client objects
+[ N 2022-09-08 14:06:29.2190 2222/Tk Ser/Server.h:901 ]: [ServerThr.7] Freed 0 spare client objects
+[ N 2022-09-08 14:06:29.2191 2222/Tm Ser/Server.h:901 ]: [ServerThr.8] Freed 0 spare client objects
+[ N 2022-09-08 14:06:29.2191 2222/To Ser/Server.h:901 ]: [ServerThr.9] Freed 0 spare client objects
+[ N 2022-09-08 14:06:29.2191 2222/Tq Ser/Server.h:901 ]: [ServerThr.10] Freed 0 spare client objects
+[ N 2022-09-08 14:06:29.2191 2222/Ts Ser/Server.h:901 ]: [ServerThr.11] Freed 0 spare client objects
+[ N 2022-09-08 14:06:29.2191 2222/Tx Ser/Server.h:901 ]: [ServerThr.13] Freed 0 spare client objects
+[ N 2022-09-08 14:06:29.2191 2222/T8 Ser/Server.h:558 ]: [ServerThr.1] Shutdown finished
+[ N 2022-09-08 14:06:29.2191 2222/Ty Ser/Server.h:901 ]: [ServerThr.14] Freed 0 spare client objects
+[ N 2022-09-08 14:06:29.2191 2222/T10 Ser/Server.h:901 ]: [ServerThr.15] Freed 0 spare client objects
+[ N 2022-09-08 14:06:29.2191 2222/T12 Ser/Server.h:901 ]: [ServerThr.16] Freed 0 spare client objects
+[ N 2022-09-08 14:06:29.2192 2222/T14 Ser/Server.h:901 ]: [ApiServer] Freed 0 spare client objects
+[ N 2022-09-08 14:06:29.2192 2222/Tu Ser/Server.h:558 ]: [ServerThr.12] Shutdown finished
+[ N 2022-09-08 14:06:29.2193 2222/Ta Ser/Server.h:558 ]: [ServerThr.2] Shutdown finished
+[ N 2022-09-08 14:06:29.2198 2222/Te Ser/Server.h:558 ]: [ServerThr.4] Shutdown finished
+[ N 2022-09-08 14:06:29.2200 2222/Th Ser/Server.h:558 ]: [ServerThr.5] Shutdown finished
+[ N 2022-09-08 14:06:29.2201 2222/Tj Ser/Server.h:558 ]: [ServerThr.6] Shutdown finished
+[ N 2022-09-08 14:06:29.2203 2222/Tk Ser/Server.h:558 ]: [ServerThr.7] Shutdown finished
+[ N 2022-09-08 14:06:29.2205 2222/Tm Ser/Server.h:558 ]: [ServerThr.8] Shutdown finished
+[ N 2022-09-08 14:06:29.2206 2222/To Ser/Server.h:558 ]: [ServerThr.9] Shutdown finished
+[ N 2022-09-08 14:06:29.2207 2222/Tq Ser/Server.h:558 ]: [ServerThr.10] Shutdown finished
+[ N 2022-09-08 14:06:29.2208 2222/Ts Ser/Server.h:558 ]: [ServerThr.11] Shutdown finished
+[ N 2022-09-08 14:06:29.2209 2222/Tx Ser/Server.h:558 ]: [ServerThr.13] Shutdown finished
+[ N 2022-09-08 14:06:29.2211 2222/Ty Ser/Server.h:558 ]: [ServerThr.14] Shutdown finished
+[ N 2022-09-08 14:06:29.2212 2222/T10 Ser/Server.h:558 ]: [ServerThr.15] Shutdown finished
+[ N 2022-09-08 14:06:29.2213 2222/T12 Ser/Server.h:558 ]: [ServerThr.16] Shutdown finished
+[ N 2022-09-08 14:06:29.2214 2222/T14 Ser/Server.h:558 ]: [ApiServer] Shutdown finished
+[ N 2022-09-08 14:06:29.2230 2222/T1 age/Cor/CoreMain.cpp:1146 ]: Checking whether to disconnect long-running connections for process 2319, application /mnt/c/Users/MaxDev/RubymineProjects/Ruby-Rack/app/1_basic_app (development)
+[ N 2022-09-08 14:06:29.8688 2222/T1 age/Cor/CoreMain.cpp:1325 ]: Passenger core shutdown finished
